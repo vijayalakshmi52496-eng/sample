@@ -1,2 +1,2 @@
 I am learning git.
-my name is Viji
+My name is Viji
