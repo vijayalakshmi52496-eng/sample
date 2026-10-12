@@ -1,1 +1,2 @@
 I am learning git.
+my name is Viji
